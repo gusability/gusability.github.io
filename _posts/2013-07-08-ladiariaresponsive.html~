@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Hey, ladiaria, You have been responsified!
+description: "I've created a stylesheet that responsifies the website of a local newspaper"
+modified: 2013-07-08
+category: articles
+tags: [lookma, responsive]
 ---
 
 <h1>{{ page.title }}</h1>
