@@ -40,5 +40,5 @@ the style's selectors with ```body.article``` and ```body.section```. I leave it
 
 <hr />
 
-I hope the folks of ladiaria understand the importance of moving towards a responsive experience and accept
-this proposal.
+I hope the folks of ladiaria and other local newspapers understand the importance of moving towards a responsive 
+experience and accept this proposal.
