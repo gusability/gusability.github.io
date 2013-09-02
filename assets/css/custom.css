@@ -20,3 +20,11 @@ figure, figure.half {
 figcaption {
   margin-bottom: 0;
 }
+
+.article-wrap h2, .article-wrap h3 {
+  margin: 2rem 0;
+}
+
+.highlight {
+  margin: 2rem 0;
+}
